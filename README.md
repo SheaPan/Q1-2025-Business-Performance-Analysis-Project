@@ -1,4 +1,4 @@
-# Q1 2025 Business Performance Analysis Project (PowerBI)
+# Q1 2025 Business Performance Analysis Project
 
 ---
 
