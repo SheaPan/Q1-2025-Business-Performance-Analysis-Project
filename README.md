@@ -23,7 +23,7 @@ This project focuses on transforming raw sales data into clear business insights
     - [retail_sales_q1_2025_large.csv](./data/retail_sales_q1_2025_large.csv)
   - [reports](./reports)
     - [Tech Retail Sales Project.pbix](./reports/Tech%20Retail%20Sales%20Project.pbix)
-    - [Tech Retail Sales Report.docx](./reports/Tech%20Retail%20Sales%20Report.docx)
+    - [Tech Retail Sales Report.pdf](./reports/Tech%20Retail%20Sales%20Report.pdf)
   - [image](./image)
     - [dashboard_overview.png](./image/dashboard_overview.png)
     - [dashboard_product.png](./image/dashboard_product.png)
