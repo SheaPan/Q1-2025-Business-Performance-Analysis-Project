@@ -1,0 +1,151 @@
+Date,Store,Product Category,Product,Units Sold,Unit Price,Revenue
+08/02/2025,Store C,Phones,Google Pixel 7,4,800,3200
+14/03/2025,Store B,Laptops,Dell XPS 13,1,1000,1000
+13/03/2025,Store C,Accessories,Charger,2,20,40
+12/03/2025,Store A,Accessories,Charger,8,20,160
+03/03/2025,Store A,Phones,iPhone 14,12,900,10800
+20/03/2025,Store B,Accessories,Charger,8,20,160
+23/02/2025,Store B,Tablets,Galaxy Tab,4,550,2200
+15/01/2025,Store C,Tablets,iPad Air,8,600,4800
+29/03/2025,Store B,Phones,Google Pixel 7,1,800,800
+12/03/2025,Store B,Phones,Google Pixel 7,4,800,3200
+16/02/2025,Store B,Tablets,iPad Mini,8,500,4000
+02/02/2025,Store A,Phones,Samsung S23,6,850,5100
+15/03/2025,Store A,Phones,iPhone 14,5,900,4500
+27/03/2025,Store A,Laptops,HP Spectre,5,1100,5500
+12/02/2025,Store B,Laptops,MacBook Pro,15,2000,30000
+30/03/2025,Store C,Accessories,Charger,10,20,200
+22/01/2025,Store B,Accessories,Charger,14,20,280
+07/01/2025,Store C,Phones,Samsung S23,4,850,3400
+01/01/2025,Store B,Tablets,iPad Mini,8,500,4000
+24/02/2025,Store B,Phones,Samsung S23,13,850,11050
+31/01/2025,Store B,Accessories,Charger,1,20,20
+01/01/2025,Store C,Accessories,Keyboard,1,30,30
+12/03/2025,Store B,Accessories,Keyboard,14,30,420
+03/03/2025,Store C,Tablets,Galaxy Tab,10,550,5500
+21/03/2025,Store A,Tablets,Galaxy Tab,8,550,4400
+25/03/2025,Store C,Tablets,iPad Air,10,600,6000
+24/02/2025,Store B,Tablets,iPad Mini,10,500,5000
+06/01/2025,Store C,Phones,iPhone 14,9,900,8100
+30/01/2025,Store B,Accessories,Keyboard,12,30,360
+15/03/2025,Store B,Tablets,iPad Mini,1,500,500
+15/01/2025,Store A,Laptops,Dell XPS 13,2,1000,2000
+13/01/2025,Store C,Laptops,Dell XPS 13,10,1000,10000
+29/03/2025,Store B,Phones,Google Pixel 7,8,800,6400
+28/01/2025,Store C,Tablets,iPad Air,8,600,4800
+09/02/2025,Store A,Tablets,iPad Air,11,600,6600
+02/02/2025,Store C,Phones,Google Pixel 7,13,800,10400
+20/03/2025,Store B,Phones,Samsung S23,8,850,6800
+03/03/2025,Store B,Accessories,Keyboard,15,30,450
+23/02/2025,Store A,Tablets,Galaxy Tab,6,550,3300
+22/01/2025,Store B,Accessories,Wireless Mouse,6,25,150
+18/03/2025,Store C,Laptops,Dell XPS 13,6,1000,6000
+17/02/2025,Store C,Tablets,iPad Air,14,600,8400
+13/02/2025,Store C,Laptops,HP Spectre,9,1100,9900
+17/01/2025,Store B,Accessories,Charger,7,20,140
+26/03/2025,Store A,Tablets,Galaxy Tab,11,550,6050
+19/02/2025,Store A,Accessories,Wireless Mouse,3,25,75
+22/01/2025,Store C,Accessories,Charger,4,20,80
+19/03/2025,Store A,Tablets,iPad Mini,13,500,6500
+20/02/2025,Store B,Tablets,Galaxy Tab,12,550,6600
+16/02/2025,Store B,Tablets,Galaxy Tab,9,550,4950
+13/03/2025,Store A,Laptops,HP Spectre,4,1100,4400
+17/02/2025,Store A,Tablets,iPad Mini,7,500,3500
+19/03/2025,Store B,Tablets,Galaxy Tab,1,550,550
+15/03/2025,Store B,Accessories,Charger,5,20,100
+15/02/2025,Store B,Laptops,MacBook Pro,6,2000,12000
+15/01/2025,Store A,Accessories,Wireless Mouse,6,25,150
+17/03/2025,Store C,Phones,Google Pixel 7,8,800,6400
+07/03/2025,Store A,Tablets,Galaxy Tab,11,550,6050
+22/02/2025,Store C,Accessories,Keyboard,7,30,210
+19/03/2025,Store B,Phones,Samsung S23,7,850,5950
+12/01/2025,Store A,Accessories,Charger,7,20,140
+05/02/2025,Store C,Laptops,MacBook Pro,11,2000,22000
+30/03/2025,Store A,Tablets,Galaxy Tab,14,550,7700
+31/03/2025,Store A,Tablets,Galaxy Tab,15,550,8250
+11/01/2025,Store B,Laptops,MacBook Pro,9,2000,18000
+28/02/2025,Store C,Accessories,Wireless Mouse,1,25,25
+13/03/2025,Store B,Accessories,Charger,9,20,180
+15/01/2025,Store B,Laptops,MacBook Pro,8,2000,16000
+06/03/2025,Store A,Accessories,Keyboard,9,30,270
+08/02/2025,Store A,Laptops,Dell XPS 13,4,1000,4000
+19/03/2025,Store A,Laptops,Dell XPS 13,15,1000,15000
+26/02/2025,Store A,Laptops,Dell XPS 13,6,1000,6000
+13/02/2025,Store B,Laptops,HP Spectre,4,1100,4400
+17/03/2025,Store B,Tablets,Galaxy Tab,14,550,7700
+02/02/2025,Store A,Tablets,iPad Mini,12,500,6000
+23/01/2025,Store A,Tablets,iPad Mini,14,500,7000
+18/01/2025,Store B,Accessories,Wireless Mouse,13,25,325
+30/01/2025,Store B,Tablets,Galaxy Tab,5,550,2750
+21/03/2025,Store A,Laptops,HP Spectre,1,1100,1100
+04/03/2025,Store B,Tablets,iPad Mini,4,500,2000
+10/02/2025,Store C,Accessories,Wireless Mouse,6,25,150
+01/01/2025,Store C,Phones,Samsung S23,6,850,5100
+30/03/2025,Store B,Tablets,Galaxy Tab,9,550,4950
+22/01/2025,Store A,Laptops,Dell XPS 13,1,1000,1000
+17/03/2025,Store C,Laptops,HP Spectre,10,1100,11000
+21/02/2025,Store A,Tablets,iPad Mini,13,500,6500
+13/02/2025,Store B,Phones,Samsung S23,5,850,4250
+08/02/2025,Store B,Tablets,iPad Air,13,600,7800
+26/02/2025,Store B,Accessories,Keyboard,7,30,210
+13/02/2025,Store B,Phones,Google Pixel 7,11,800,8800
+10/02/2025,Store B,Tablets,iPad Mini,13,500,6500
+04/01/2025,Store A,Accessories,Keyboard,15,30,450
+05/01/2025,Store C,Phones,Google Pixel 7,14,800,11200
+17/03/2025,Store B,Phones,iPhone 14,12,900,10800
+01/01/2025,Store A,Laptops,MacBook Pro,5,2000,10000
+29/03/2025,Store C,Accessories,Charger,13,20,260
+02/02/2025,Store C,Tablets,iPad Air,11,600,6600
+16/03/2025,Store C,Phones,Google Pixel 7,14,800,11200
+10/02/2025,Store C,Laptops,MacBook Pro,11,2000,22000
+18/03/2025,Store B,Phones,iPhone 14,4,900,3600
+24/03/2025,Store B,Accessories,Charger,6,20,120
+02/03/2025,Store A,Laptops,HP Spectre,6,1100,6600
+25/03/2025,Store A,Accessories,Keyboard,14,30,420
+25/03/2025,Store C,Phones,Samsung S23,12,850,10200
+19/03/2025,Store C,Accessories,Keyboard,6,30,180
+21/03/2025,Store C,Tablets,Galaxy Tab,13,550,7150
+12/02/2025,Store B,Phones,iPhone 14,5,900,4500
+12/01/2025,Store C,Phones,iPhone 14,15,900,13500
+17/03/2025,Store A,Phones,iPhone 14,1,900,900
+27/02/2025,Store B,Accessories,Keyboard,3,30,90
+25/02/2025,Store C,Accessories,Wireless Mouse,14,25,350
+09/02/2025,Store C,Laptops,HP Spectre,10,1100,11000
+30/01/2025,Store B,Phones,Google Pixel 7,11,800,8800
+24/01/2025,Store A,Laptops,HP Spectre,11,1100,12100
+02/01/2025,Store B,Phones,Samsung S23,3,850,2550
+27/02/2025,Store A,Tablets,iPad Air,2,600,1200
+16/01/2025,Store C,Accessories,Charger,6,20,120
+12/01/2025,Store A,Accessories,Charger,8,20,160
+18/03/2025,Store C,Accessories,Keyboard,12,30,360
+24/01/2025,Store B,Tablets,iPad Mini,2,500,1000
+26/02/2025,Store A,Phones,Samsung S23,4,850,3400
+08/02/2025,Store B,Phones,Samsung S23,7,850,5950
+30/03/2025,Store C,Accessories,Wireless Mouse,15,25,375
+26/01/2025,Store A,Accessories,Charger,11,20,220
+01/02/2025,Store C,Laptops,Dell XPS 13,15,1000,15000
+31/03/2025,Store B,Phones,Samsung S23,15,850,12750
+25/02/2025,Store C,Accessories,Keyboard,1,30,30
+10/02/2025,Store A,Accessories,Charger,13,20,260
+05/03/2025,Store B,Laptops,HP Spectre,12,1100,13200
+27/01/2025,Store A,Accessories,Wireless Mouse,4,25,100
+06/02/2025,Store C,Phones,iPhone 14,1,900,900
+25/02/2025,Store A,Laptops,HP Spectre,15,1100,16500
+13/02/2025,Store A,Phones,Samsung S23,15,850,12750
+04/03/2025,Store B,Accessories,Keyboard,2,30,60
+01/02/2025,Store A,Accessories,Keyboard,11,30,330
+05/02/2025,Store A,Laptops,MacBook Pro,13,2000,26000
+04/03/2025,Store A,Accessories,Charger,4,20,80
+13/01/2025,Store B,Tablets,iPad Air,11,600,6600
+14/02/2025,Store C,Phones,Samsung S23,15,850,12750
+06/03/2025,Store C,Accessories,Wireless Mouse,9,25,225
+12/02/2025,Store B,Tablets,Galaxy Tab,3,550,1650
+27/01/2025,Store A,Laptops,MacBook Pro,5,2000,10000
+02/03/2025,Store C,Laptops,Dell XPS 13,9,1000,9000
+16/01/2025,Store B,Phones,Google Pixel 7,14,800,11200
+05/01/2025,Store C,Tablets,iPad Mini,5,500,2500
+20/03/2025,Store A,Phones,Samsung S23,6,850,5100
+28/01/2025,Store C,Accessories,Wireless Mouse,8,25,200
+09/02/2025,Store C,Phones,Samsung S23,4,850,3400
+02/01/2025,Store B,Tablets,iPad Mini,13,500,6500
+13/01/2025,Store C,Tablets,Galaxy Tab,4,550,2200
